@@ -22,6 +22,6 @@ brw=brwuDrlBAuNlnb5yz; path=/; expires=Tue, 29 Jun 2021 17:39:48 GMT; domain=.ai
 
 
 
-    const ALGOLIA_APP_ID = 'OH29RAPN3N';
-    const ALGOLIA_ADMIN_KEY = 'b782df173961404a169945f8079362a3';
-    const ALGOLIA_SEARCH_KEY = '46aee733e12b4f08ee8f1ba9c4bc6380';
+const ALGOLIA_APP_ID = 'OH29RAPN3M';
+const ALGOLIA_ADMIN_KEY = 'b782df173961404a169945f8079362a2';
+const ALGOLIA_SEARCH_KEY = '46aee733e12b4f08ee8f1ba9c4bc6381';
